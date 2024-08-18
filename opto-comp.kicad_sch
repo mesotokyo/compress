@@ -7,8 +7,9 @@
   (title_block
     (title "OPTO COMPRESSOR")
     (date "2024-01-07")
-    (rev "1.0.0")
-    (company "meso.tokyo")
+    (rev "1.0.1")
+    (company "MST/mesotokyo")
+    (comment 1 "https://meso.tokyo/")
   )
 
   (lib_symbols

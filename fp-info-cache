@@ -1,4 +1,4 @@
-20672780105428274
+20688519582129347
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86499,6 +86499,20 @@ C Rect series Radial pin pitch 3.50mm  length 6mm width 3mm Capacitor
 2
 2
 ak_misc
+C_Rect_L7.2mm_W7.2mm_P5.00mm_with_SMD_3216
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*7.2mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 7.2mm Capacitor
+0
+4
+2
+ak_misc
+DIP-8_W7.62mm_Socket_w_SOP8
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+16
+8
+ak_misc
 Diode_Array
 
 
@@ -86653,6 +86667,34 @@ potentiometer vertical 9mm single
 3
 3
 ak_misc
+RS-2688-0112
+
+
+0
+13
+13
+ak_misc
+RS-2688-0206
+
+
+0
+14
+14
+ak_misc
+R_Array_Convex_4x0603_handsolder
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+ak_misc
+R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_with_SMD
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+6
+2
+ak_misc
 SOD-123FL
 
 
@@ -86673,6 +86715,20 @@ SOT-523F
 0
 2
 2
+ak_misc
+SR1712F-XXXX-15K0A-B9-N-027
+
+
+0
+12
+10
+ak_misc
+SR1712F-XXXX-15K0A-B9-N-027-oval
+
+
+0
+12
+10
 ak_misc
 SSOP16_TO_DIP
 
@@ -86749,6 +86805,13 @@ spdt-sw-micro
 
 0
 3
+3
+ak_misc
+spdt-sw-micro-with-fixer
+
+
+0
+5
 3
 ak_misc
 test
