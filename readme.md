@@ -6,7 +6,7 @@
 
 KiCAD files to build PCB of the MST Compress (Optical Compressor). These files are created with KiCad 6.0.
 
-For more information about MST Compress, please check https://meso.tokyo/works/compressor .
+For more information about MST Compress, please check https://meso.tokyo/works/compress .
 
 ## Notice
 

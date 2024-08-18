@@ -6,7 +6,7 @@
 
 MST Compress （Optical Compressor）のプリント基板を作成するためのKiCADファイルです。KiCAD 6.0を使って作成されています。
 
-MST Compressについて詳しくは、https://meso.tokyo/works/compressor をご参照ください。
+MST Compressについて詳しくは、https://meso.tokyo/works/compress をご参照ください。
 
 ## 注意
 
